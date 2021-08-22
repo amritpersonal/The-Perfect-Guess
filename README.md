@@ -20,3 +20,7 @@ If the first condition is false, then flow goes for check second condition, if t
 If above both condition returns false. Then the user guessed number is matched with the actual number and the loop will be terminated by a break statement. Code also prints You Win! message and number of guesses taken by the user that counted by count variable.
 
 With this above all condition, code also prints the number of guesses left for the user, and the count variable increases by one in every iteration to print a number of guesses taken by the user once the user wins the game.
+So, the above all conditions are written in a while loop. while loop gets terminated once the user wins the game or no. of guesses reaches the limit.
+Outside of the loop, code will print the Game Over message with the actual number.
+
+Hope you like this game. Now it’s your turn to make guess the number in python with some modifications. Share with your friends and family who learning python.
